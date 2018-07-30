@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,extend",
+    "logging_enabled": "false",
+    "name": "extendSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "extendSmokeTest.js"
+}
